@@ -1,6 +1,5 @@
 # I am using mediapipe as a hand detector and landmark detector and a Random Forest classifier as sign classifier.
 
-
 import pickle
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
