@@ -15,7 +15,7 @@ A real-time application for detecting and recognizing sign language gestures usi
 - [Project Report](#project-report)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Aim
 
