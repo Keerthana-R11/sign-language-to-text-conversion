@@ -40,7 +40,6 @@ This project leverages Flask for the web interface and TensorFlow/Keras for the 
 Showcasing a demonstration of the Realtime Sign Language Detection 
 
 
-
 https://github.com/user-attachments/assets/36d57256-4a54-4977-b54c-4cf615ab5204
 
 
